@@ -65,7 +65,7 @@ if (isset($_REQUEST["submit"])) {
               <div class="row">
                   <div class="col-xl-12">
                       <div class="section-tittle text-center mb-55 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
-                          <h2 >Coach</h2>
+                          <h2 >Members</h2>
                       </div>
                   </div>
               </div>
